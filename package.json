@@ -33,6 +33,7 @@
     "@antfu/eslint-config": "^6.0.0",
     "@iconify-json/tabler": "^1.2.23",
     "@types/node": "^24.9.1",
+    "concurrently": "^9.2.1",
     "daisyui": "^5.3.7",
     "drizzle-kit": "^0.31.5",
     "eslint": "^9.38.0",
